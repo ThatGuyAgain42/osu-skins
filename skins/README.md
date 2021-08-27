@@ -7,3 +7,6 @@ the readme will have a displaycase of all the skins
   - and inside we have a folder for the actual dirty raw files
     - raw skin files (that sounds gross out of context)
   - and the actual skin file
+
+## Minor Setback
+theres a file size limit...
