@@ -10,3 +10,5 @@ the readme will have a displaycase of all the skins
 
 ## Minor Setback
 theres a file size limit...
+
+**BUT ONLY ON THE WEB VERSION LETS GOOOOOOOOOOO**
