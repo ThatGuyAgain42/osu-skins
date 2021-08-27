@@ -1,5 +1,6 @@
 # The Plan
 so we got the main
+
 the readme will have a displaycase of all the skins
 - then we're here
 - here we put a folder for the skin name (that were working on)
